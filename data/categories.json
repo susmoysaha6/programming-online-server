@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Front-End Courses"
+  },
+  {
+    "id": 2,
+    "name": "Back-End Courses"
+  },
+  {
+    "id": 3,
+    "name": "Database Courses"
+  },
+  {
+    "id": 4,
+    "name": "All Courses"
+  }
+]

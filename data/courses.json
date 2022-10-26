@@ -1,0 +1,86 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "category_id": 1,
+    "rating": 4.5,
+    "total_purchase": 488,
+    "title": "REACT",
+    "price": 100,
+    "instructor": "Susmoy",
+    "instructor_thumbnail": "https://i.ibb.co/jMVpxVT/susmoy.jpg",
+    "image_url": "https://i.ibb.co/tcm49gt/react.jpg",
+    "details": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.Declarative views make your code more predictable and easier to debug. Build encapsulated components that manage their own state, then compose them to make complex UIs.Since component logic is written in JavaScript instead of templates, you can easily pass rich data through your app and keep state out of the DOM.We don’t make assumptions about the rest of your technology stack, so you can develop new features in React without rewriting existing code.React can also render on the server using Node and power mobile apps using React Native."
+  },
+  {
+    "_id": "0282e0e18a5d404fbd15261g11c2ab7b",
+    "category_id": 1,
+    "rating": 4,
+    "total_purchase": 412,
+    "title": "ANGULAR",
+    "price": 110,
+    "instructor": "Shakhawat",
+    "instructor_thumbnail": "https://i.ibb.co/jMVpxVT/susmoy.jpg",
+    "image_url": "https://i.ibb.co/PxTTf4Z/angular.png",
+    "details": "Learn one way to build applications with Angular and reuse your code and abilities to build apps for any deployment target. For web, mobile web, native mobile and native desktop.Achieve the maximum speed possible on the Web Platform today, and take it further, via Web Workers and server-side rendering.Angular puts you in control over scalability. Meet huge data requirements by building data models on RxJS, Immutable.js or another push-model.Build features quickly with simple, declarative templates. Extend the template language with your own components and use a wide array of existing components. Get immediate Angular-specific help and feedback with nearly every IDE and editor. All this comes together so you can focus on building amazing apps rather than trying to make the code work."
+  },
+  {
+    "_id": "0282c0c18a5d404fdv15261g11c2abd3",
+    "category_id": 1,
+    "rating": 5,
+    "total_purchase": 395,
+    "title": "VUE",
+    "price": 90,
+    "instructor": "Habib",
+    "instructor_thumbnail": "https://i.ibb.co/jMVpxVT/susmoy.jpg",
+    "image_url": "https://i.ibb.co/M57bxhk/vue.png",
+    "details": "An approachable, performant and versatile framework for building web user interfaces. Builds on top of standard HTML, CSS and JavaScript with intuitive API and world-class documentation. Truly reactive, compiler-optimized rendering system that rarely requires manual optimization.A rich, incrementally adoptable ecosystem that scales between a library and a full-featured framework."
+  },
+  {
+    "_id": "0282c5d18a5l404fdv15261r11c2aba1",
+    "category_id": 2,
+    "rating": 5,
+    "total_purchase": 455,
+    "title": "EXPRESS",
+    "instructor": "Shazid",
+    "price": 120,
+    "instructor_thumbnail": "https://i.ibb.co/jMVpxVT/susmoy.jpg",
+    "image_url": "https://i.ibb.co/Km2z2KJ/express.png",
+    "details": "Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications. With a myriad of HTTP utility methods and middleware at your disposal, creating a robust API is quick and easy. Express provides a thin layer of fundamental web application features, without obscuring Node.js features that you know and love. "
+  },
+  {
+    "_id": "0273e5d18a5l404faw15352w22d3cdz8",
+    "category_id": 2,
+    "rating": 5,
+    "total_purchase": 428,
+    "title": "DJANGO",
+    "price": 120,
+    "instructor": "Shuvo",
+    "instructor_thumbnail": "https://i.ibb.co/jMVpxVT/susmoy.jpg",
+    "image_url": "https://i.ibb.co/bmx11QZ/django.png",
+    "details": "Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source. Django was designed to help developers take applications from concept to completion as quickly as possible. Django takes security seriously and helps developers avoid many common security mistakes. Some of the busiest sites on the web leverage Django’s ability to quickly and flexibly scale."
+  },
+  {
+    "_id": "0262e5f18a5l404fsq15352q22e2fgy7",
+    "category_id": 2,
+    "rating": 4.5,
+    "total_purchase": 510,
+    "title": "ASP.NET CORE",
+    "price": 120,
+    "instructor": "Sourav",
+    "instructor_thumbnail": "https://i.ibb.co/jMVpxVT/susmoy.jpg",
+    "image_url": "https://i.ibb.co/b1HGb48/asp.png",
+    "details": "ASP.NET Core is a cross-platform, high-performance, open-source framework for building modern, cloud-enabled, Internet-connected apps. Build web apps and services, Internet of Things (IoT) apps, and mobile backends. Use your favorite development tools on Windows, macOS, and Linux. Deploy to the cloud or on-premises. Run on .NET Core."
+  },
+  {
+    "_id": "0251e5f18a5l404gqs15352p22c2ulp5",
+    "category_id": 3,
+    "rating": 5,
+    "total_purchase": 528,
+    "title": "MongoDB",
+    "price": 100,
+    "instructor": "Nusrat",
+    "instructor_thumbnail": "https://i.ibb.co/jMVpxVT/susmoy.jpg",
+    "image_url": "https://i.ibb.co/f4T02fQ/mongo.png",
+    "details": "Get your ideas to market faster with a developer data platform built on the leading modern database. Support transactional, search, analytics, and mobile use cases while using a common query interface and the data model developers love. Our guiding principle is to help developers solve their data challenges. Here’s what you can do with MongoDB. Ship and iterate 3–5x faster with our flexible document data model and a unified query interface for any use case. Whether it’s your first customer or 20 million users around the world, meet your performance SLAs in any environment. Easily ensure high availability, protect data integrity, and meet the security and compliance standards for your mission-critical workloads. Start in seconds and scale to millions with our cloud services"
+  }
+]
