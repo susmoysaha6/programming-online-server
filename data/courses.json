@@ -1,7 +1,7 @@
 [
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-    "category_id": 1,
+    "category_id": "01",
     "rating": 4.5,
     "total_purchase": 488,
     "title": "REACT",
@@ -13,7 +13,7 @@
   },
   {
     "_id": "0282e0e18a5d404fbd15261g11c2ab7b",
-    "category_id": 1,
+    "category_id": "01",
     "rating": 4,
     "total_purchase": 412,
     "title": "ANGULAR",
@@ -25,7 +25,7 @@
   },
   {
     "_id": "0282c0c18a5d404fdv15261g11c2abd3",
-    "category_id": 1,
+    "category_id": "01",
     "rating": 5,
     "total_purchase": 395,
     "title": "VUE",
@@ -37,7 +37,7 @@
   },
   {
     "_id": "0282c5d18a5l404fdv15261r11c2aba1",
-    "category_id": 2,
+    "category_id": "02",
     "rating": 5,
     "total_purchase": 455,
     "title": "EXPRESS",
@@ -49,7 +49,7 @@
   },
   {
     "_id": "0273e5d18a5l404faw15352w22d3cdz8",
-    "category_id": 2,
+    "category_id": "02",
     "rating": 5,
     "total_purchase": 428,
     "title": "DJANGO",
@@ -61,7 +61,7 @@
   },
   {
     "_id": "0262e5f18a5l404fsq15352q22e2fgy7",
-    "category_id": 2,
+    "category_id": "02",
     "rating": 4.5,
     "total_purchase": 510,
     "title": "ASP.NET CORE",
@@ -73,7 +73,7 @@
   },
   {
     "_id": "0251e5f18a5l404gqs15352p22c2ulp5",
-    "category_id": 3,
+    "category_id": "03",
     "rating": 5,
     "total_purchase": 528,
     "title": "MongoDB",

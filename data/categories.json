@@ -1,18 +1,18 @@
 [
   {
-    "id": 1,
+    "id": "01",
     "name": "Front-End Courses"
   },
   {
-    "id": 2,
+    "id": "02",
     "name": "Back-End Courses"
   },
   {
-    "id": 3,
+    "id": "03",
     "name": "Database Courses"
   },
   {
-    "id": 4,
+    "id": "04",
     "name": "All Courses"
   }
 ]
