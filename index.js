@@ -10,9 +10,21 @@ const categories = require('./data/categories.json')
 app.get('/', (req, res) => {
     res.send('Course API Running');
 });
+
 app.get('/course-categories', (req, res) => {
     res.send(categories);
 });
+
+app.get('/category/:id', (req, res) => {
+    const id = req.params.id;
+    if (id === '04') {
+        res.send(courses);
+    }
+    else {
+        const category_courses = courses.filter(course => course.category_id === id);
+        res.send(category_courses);
+    }
+})
 
 app.get('/courses', (req, res) => {
     res.send(courses);
