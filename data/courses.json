@@ -56,7 +56,7 @@
     "price": 120,
     "instructor": "Shuvo",
     "instructor_thumbnail": "https://i.ibb.co/jMVpxVT/susmoy.jpg",
-    "image_url": "https://i.ibb.co/3ySznGv/djangoo.png",
+    "image_url": "https://i.ibb.co/P5Mfy2X/djangoo.png",
     "details": "Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source. Django was designed to help developers take applications from concept to completion as quickly as possible. Django takes security seriously and helps developers avoid many common security mistakes. Some of the busiest sites on the web leverage Django’s ability to quickly and flexibly scale."
   },
   {
